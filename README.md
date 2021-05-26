@@ -5,7 +5,7 @@ Just a simple little website to flex my coding muscles, as well as creating a re
 Below will be links to all their profiles, split up amongst their respective hubs for easier viewing.
 
 ### Animals
-1. [Ariadne Tanka](https://www.f-list.net/c/ariadne%20tanaka)
+1. [Ariadne Tanaka](https://www.f-list.net/c/ariadne%20tanaka)
 2. [Bailey Knight](https://www.f-list.net/c/bailey%20knight)
 3. [Fatima Qasim](https://www.f-list.net/c/fatima%20qasim)
 4. [Jenny Death](https://www.f-list.net/c/jenny%20death)
