@@ -1,4 +1,4 @@
-# Daily Routine Hub
+<h1>Daily Routine Hub</h1>
 
 Just a simple little website to flex my coding muscles, as well as creating a repository to store all of my roleplaying characters from the website [F-List](https://f-list.net).
 
