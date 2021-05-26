@@ -1,10 +1,11 @@
 #hello {
-    background: #fff;
-    color: black;
-    width: 5em;
-    height: 5em
-  }
+  background: #fff;
+  color: black;
+  width: 5em;
+  height: 5em;
+  transition: 1s;
+}
   
-  body {
-    background-color: #DDD;
-  }
+body {
+  background-color: #DDD;
+}
