@@ -1,7 +1,6 @@
-anime({
-    targets: 'div',
-    translateX: 250,
-    rotate: '1turn',
-    backgroundColor: '#0000FF',
-    duration: 800
-  });
+$('#hello').mouseenter(function() {
+  $(this).append("oh hai");
+});
+$('#hello').mouseleave(function() {
+  $(this).append("oh hai");
+});
