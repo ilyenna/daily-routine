@@ -2,3 +2,8 @@
     font-family: 'who asks satan';
     src: url(fonts/who\ asks\ satan.ttf);
 }
+
+@font-face {
+    font-family: 'roboto';
+    src: url(fonts/Roboto.ttf);
+}
